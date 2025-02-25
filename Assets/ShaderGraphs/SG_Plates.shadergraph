@@ -95,7 +95,11 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "c14d92c1df884bd5872c0911b68061a8"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -1941,6 +1945,26 @@
     "m_Value": 0.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "c14d92c1df884bd5872c0911b68061a8",
+    "m_Title": "Draw circles to make the shadow",
+    "m_Content": "",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1537.5296630859375,
+        "y": -525.0101318359375,
+        "width": 200.0,
+        "height": 160.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
 }
 
 {
